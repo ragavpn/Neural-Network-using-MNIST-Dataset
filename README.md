@@ -1,4 +1,4 @@
-# SPIDER-ML-PRE-INDUCTION
+# Neural Network implemented with MNIST Dataset
 
 This project implements a neural network using the Numpy library to classify handwritten digits from the MNIST dataset. The neural network architecture consists of three layers with different activation functions: tanh, ReLU, and softmax.
 
